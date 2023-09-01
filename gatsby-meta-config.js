@@ -68,7 +68,7 @@ module.exports = {
       },
       {
         date: '2022.07',
-        activity: '객체 지향 프로그램 자동 평가 시스템, in Proceedings of Korea Computer Congress (KCC2022)',
+        activity: '객체 지향 프로그램 자동 평가 시스템, in Proceedings of Korea Computer Congress (KCC2022) & 학부생 부문 수상',
         links: {
           post: 'https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&gu=INME000G4&cmd=qryview&SnxIndxNum=245374&q1_yy=2022&q1_mm=06&rownum=2&totalCnt=4&q1_t=SmFlY2hhbmcgTmFt&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT1KYWVjaGFuZyUyME5hbSZtb3JlPVkmZjE9TU4mcmVzZWFyY2g9WQ==&f1=MN&q1=Jaechang%20Nam',
         },
