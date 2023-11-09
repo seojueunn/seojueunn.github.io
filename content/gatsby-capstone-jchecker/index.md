@@ -80,13 +80,13 @@ AST node 정보를 통해 객체 지향 개념이 적절히 구현되어 있는�
 <br>
 
 **📍 <U>결함 위치추정 기법 (Fault Localization, FL)</U>**  
-관리자가 채점 기준으로 등록한 테스트 케이스의 통과 여부 및 코드 커버리지 (Code coverage) 정보를 기반으로 결함의 위치를 추정한다. GZoltar 라이브러리를 사용한다.  
+관리자가 채점 기준으로 등록한 테스트 케이스의 통과 여부 및 코드 커버리지 (Code coverage) 정보를 기반으로 결함의 위치를 추정한다. [GZoltar 라이브러리](https://gzoltar.com/index.html)를 사용한다.  
 > Code coverage: 결함을 발견하기 위한 테스트 케이스가 소스 코드의 어떤 부분을 실행하거나 테스트하는지를 설명하는 지표   
 
 <br>
 
 **👩🏻‍🔧 <U>자동 프로그램 수정 기법 (Automated Program Repair, APR)</U>**  
-Fault Localization 진행 결과를 바탕으로 학생의 프로그램 속 결함 코드를 수정한 Repair 정보를 생성한다. 이때, Repair 정보는 결함이 수정된 코드 자체이다. TBar 라이브러리를 사용한다. 
+Fault Localization 진행 결과를 바탕으로 학생의 프로그램 속 결함 코드를 수정한 Repair 정보를 생성한다. 이때, Repair 정보는 결함이 수정된 코드 자체이다. [TBar 라이브러리](https://github.com/TruX-DTF/TBar)를 사용한다. 
 
 <br>
 
