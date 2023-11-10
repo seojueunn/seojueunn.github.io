@@ -7,28 +7,6 @@ tags: programming education Java AST
 categories: research project
 ---
 
-## ✈️ Problem Definition
-
-코딩 테스트 및 과제를 자동으로 채점하는 기존의 프로그램들은 대부분 **테스트 케이스를 기반으로 작동**된다.   
-실제로 _WebCat_, _Repl.it_ 등과 같은 채점 서비스는 특정 입력값에 대한 출력값과 정답의 일치 여부를 확인하여 코드를 평가한다.   
-이때, 제한된 자원으로 정확도 및 완성도가 높은 테스트 케이스를 생성하는 데에는 많은 어려움이 있다.   
-
-이를 해결하기 위해 기존의 논문들은 자동 채점 시스템에 다음의 기술을 적용하였다.
-> [Formal Semantics](https://par.nsf.gov/servlets/purl/10087529): 의미적으로 다른 실행 경로를 탐색  
-> [Hyper-safety Verification](https://kumarmadhukar.github.io/papers/nier-icse2020-hyper.pdf): 소스코드 자체의 정확성을 평가   
-
-두 기술은 프로그램의 출력값만 비교하는 것이 아닌, 소스코드 자체를 분석하는 채점 방식을 제안했기에 의의를 지닌다.   
-하지만, 테스트 케이스만을 고려하는 채점 방식은 **각 프로그래밍 언어의 고유한 특성을 반영하지 못한다는 한계**가 있다!   
-객체 지향 등 언어의 특성을 고려할 수 있는 프로그램 채점 방식에는 어떤 것이 있을까 🤔   
-
-<br><br>
-
-## ⛅️ Approach
-
-기존의 자동 채점 시스템이 가지는 한계점을 극복하기 위해 **객체 지향 개념 검사를 지원하는 자동 채점 엔진 기반의 웹 서비스 jChecker**를 새롭게 제안한다!
-
-이러한 한계점을 극복하기 위해 객체 지향 프로그램을 자동으로 평가하는 시스템 jChecker를 개발하였다.
-
 # **Automatic Evaluation System for Object-Oriented Programs**
 
 ## Problem Definition
