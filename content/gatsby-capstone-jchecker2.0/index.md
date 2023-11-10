@@ -114,10 +114,8 @@ Automated Program Repair 결과로 생성된 Repair 정보를 자연어 기반�
 jChecker 2.0 시스템의 기능은 웹 서비스 형태로 제공된다.  
 **_React i18next (react-i18next)_** 라이브러리를 통해 영어 버전의 jChecker 2.0 서비스도 지원 가능하다.
 
-<p align="center">
-  <img src="main-page1.png" width="470" alt="main-page1.png" />
-  <img src="main-page2.png" width="470" alt="main-page2.png" />
-</p>
+![main-page1.png](main-page1.png) 
+![main-page2.png](main-page2.png)
 
 아래 게시글을 통해 구체적인 구현 결과물과 실험 결과를 볼 수 있다!   
 [https://seojueunn.github.io/gatsby-capstone-jchecker2.0-result](https://seojueunn.github.io/gatsby-capstone-jchecker2.0-result/)
