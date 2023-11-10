@@ -98,6 +98,45 @@ jChecker 2.0 시스템의 기능은 웹 서비스 형태로 제공된다.
 
 채점 기록 데이터 테이블 아래에는 채점 정책을 관리를 위한 버튼이 있다. <U>✏️Update Total Policy</U> 버튼을 클릭하여 이미 등록한 채점 정책을 수정할 수 있다. 체크 박스는 등록된 세부 채점 항목을 보여주며, <U>✏️Edit</U> 버튼을 통해 항목을 추가 및 삭제한다. <U>완료 (SUBMIT)</U> 버튼을 클릭하여 수정된 채점 정책을 저장한다.
 
+<br><br>
+
+## 🧪 프로젝트 실험
+
+프로젝트의 설계 타당성과 성능을 평가하기 위한 실험을 진행하였다!   
+학부 Java Programming 두 분반의 수업에서 jChecker 2.0 시스템을 사용하였다.   
+
+### 🪵 실험 환경 및 설계
+1단계 피드백 <span style="color: #808080">(프로그램 실행 결과/객체 지향 개념 평가 결과/Class diagram)</span>에 대한 실험 환경은 아래와 같다.
+
+> * **Server 정보**: Ubuntu 18.04.6, 2.1GHz CPU, 32GB RAM, 512GB 메모리   
+> * **Class 정보**
+>   * Name: 2023-1-HW2-Kor, 2023-1-HW2-Eng
+>   * Test-case: 36개 (출력값 및 결과 파일 생성 확인)
+>   * Object-oriented Concepts: Required Classes (11개), Javadoc, Encapsulation, Inheritance (9개)
+> * **기간**: 2023.04.26 - 2023.05.15
+> * **동시 사용자**: 117명 (54 + 63)   
+
+결함 위치추정 기법과 자동 프로그램 수정 기법이 적용된 2단계 및 3단계 피드백은 실행이 불안정하여 일회성 실험으로 진행하였다.   
+2단계 및 3단계 피드백의 실험 환경은 아래와 같다.
+> * **Server 정보**: Ubuntu 18.04.6, 2.1GHz CPU, 32GB RAM, 512GB 메모리
+> * **Class 정보**
+>   * Name: 2023-1-HW2-Kor
+>   * Test-case: 36개 (출력값 및 결과 파일 생성 확인)
+>   * Object-oriented Concepts: Required Classes (11개), Javadoc, Encapsulation, Inheritance (9개)
+> * **기간**: 2023.05.18
+> * **동시 사용자**: 1명
+
+<br>
+
+### 🏕 실험 결과
+
+**1️⃣ <U>기본 피드백</U> <span style="color: #808080">(프로그램 실행 결과/객체 지향 개념 평가 결과/Class diagram)</span>**  
+약 3개월의 기간 동안 여러 Java Programming 과제에 jChecker 2.0 시스템을 적용하였다. 그 결과, <span style='background-color: #fff5b1'>**100명 이상의 동시 사용자에게 서비스를 제공할 수 있음**</span>과 1단계 피드백에 적용되는 <span style='background-color: #fff5b1'>**모든 기능이 문제 없이 동작함**</span>을 확인할 수 있었다. 2023학년도 1학기에 진행된 Java Programming 수업은 모두 jChecker 2.0 시스템의 1단계 피드백을 사용하였다. 이로써 일정 기간 당안 여러 사용자에게 동시 다발적으로 서비스를 제공하여도 문제 없음을 증명하였다.   
+
+**2️⃣&3️⃣ <U>디버깅 정보 피드백</U> <span style="color: #808080">(1단계 피드백 + 결함 코드/수정 방법)</span>**   
+2단계 및 3단계 피드백 기능은 Refactoring, Class path 설정 등의 문제로 인해 <span style='background-color: #fff5b1'>**비교적 낮은 구현 완성도**</span>를 가진다. 이러한 이유로 실험 기간 동안 2단계와 3단계 피드백을 위한 실험을 하지 못하였다. 기능의 동작을 확인하기 위해 일회성 실험을 진행하였고, <span style='background-color: #fff5b1'>**디버깅 정보가 불규칙적으로 제공됨**</span>을 확인하였다. jChecker 2.0 시스템에 적용된 결함 위치추정 기법 (GZoltar)과 자동 프로그램 수정 기법 (TBar) 모두 Defects4J 등의 결함 데이터에 적합하여 사용자에 코드에서 좋은 성능을 보여주지 못한 것으로 판단된다.   
+
+
 
 
 ```toc
