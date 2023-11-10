@@ -4,7 +4,7 @@ title: Java 프로그래밍 교육을 위한 지능형 튜터링 시스템
 date: '2023-06-22 23:00:00'
 author: jueunn
 tags: programming education Java
-categories: research project
+categories: project
 ---
 
 ## 💭 고민의 시작
@@ -109,7 +109,22 @@ Automated Program Repair 결과로 생성된 Repair 정보를 자연어 기반�
 
 <br>
 
-### ✨ 프로젝트 구현 결과가 궁금하다면!
+### 🧸 프로젝트 구현 결과가 궁금하다면!   
+
+jChecker 2.0 시스템의 기능은 웹 서비스 형태로 제공된다.  
+**_React i18next (react-i18next)_** 라이브러리를 통해 영어 버전의 jChecker 2.0 서비스도 지원 가능하다.
+
+<p align="center">
+  <img src="main-page1.png" width="470" alt="main-page1.png" />
+  <img src="main-page2.png" width="470" alt="main-page2.png" />
+</p>
+
+아래 게시글을 통해 구체적인 구현 결과물과 실험 결과를 볼 수 있다!   
+[https://seojueunn.github.io/gatsby-capstone-jchecker2.0-result](https://seojueunn.github.io/gatsby-capstone-jchecker2.0-result/)
+
+<br>
+
+### ✨ 프로젝트를 사용해보고 싶다면!
 프로젝트 결과물의 명칭은 **_jChecker 2.0_** 이다. 아래 링크를 통해 서비스를 직접 사용해볼 수 있다!  
 [http://isel.lifove.net/jchecker2.0](http://isel.lifove.net/jchecker2.0)  
 
