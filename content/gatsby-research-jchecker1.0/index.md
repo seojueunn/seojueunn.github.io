@@ -49,14 +49,14 @@ jChecker는 채점자가 <U>**테스트 케이스와 객체 지향 개념을 채
 > - AST 구문 분석 후 AST node 정보를 통해 **객체 지향 개념의 구현 여부 확인**
 > - 테스트 케이스 실행 결과, 객체 지향 개념 평가 결과를 **자연어 피드백으로 제공**
 
-#### 🌿 jChecker 시스템 구조
+#### 🌿 시스템 구조
 * <U>**백엔드**</U>는 API 서버이며, 프론트엔드와 데이터베이스의 중간 다리 역할로서 채점 요청이 오면 채점을 진행하여 데이터베이스에 결과를 저장
 * <U>**프론트엔드**</U>는 **<sup>1</sup>사용자가 서버의 리소스를 필요로 하는 경우**와 **<sup>2</sup>사용자가 프론트엔드에서 정보를 입력하여 저장하는 경우**에 대한 요청을 처리
 * <U>**데이터베이스**</U>는 백엔드의 요청에 맞게 채점 관련 데이터를 저장 및 반환
 
 ![system-architecture.png](system-architecture.png)
 
-#### 🌻 jChecker 자동 채점 엔진 동작 및 흐름  
+#### 🌻 자동 채점 엔진 동작 및 흐름  
 **1️⃣ Preprocessing <span style="color: #808080">(전처리)</span>**   
 사용자가 채점 대상 프로그램을 압축 파일 (.zip 확장자) 형식으로 제출하면, Java 라이브러리를 사용하여 정해진 경로에 압축을 해제한다.   
 
@@ -100,7 +100,7 @@ jChecker는 테스트 케이스 기반의 채점 방식과 함께 <span style='b
 
 ### ✨ 논문을 직접 읽어보고 싶다면!
 본 연구는 **한국정보과학회 2022 한국컴퓨터종합학술대회**에 정식 게재되었다. 아래 링크를 통해 **_객체 지향 프로그램 자동 평가 시스템_** 논문을 다운로드 할 수 있다!   
-[>> 객체 지향 프로그램 자동 평가 시스템 (Automatic Evaluation System for Object-Oriented Programs)](./KCC2022_Automatic_Evaluation_System_for_Object-Oriented_Programs.pdf)
+[>> 객체 지향 프로그램 자동 평가 시스템 (KCC 2022)](./KCC2022_Automatic_Evaluation_System_for_Object-Oriented_Programs.pdf)
 
 
 
