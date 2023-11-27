@@ -93,7 +93,7 @@ jChecker는 테스트 케이스 기반의 채점 방식과 함께 <span style='b
 - 많은 수의 제출물을 수동으로 실행하지 않고 jChecker의 결과를 점수에 반영함으로써 채점 시간 단축
 - 객관적이고 정확한 평가 결과를 제공 가능
 
-아래 링크를 통해 본 연구의 결과물 jChecker를 직접 사용해볼 수 있다!
+아래 링크를 통해 본 연구의 결과물 jChecker를 직접 사용해볼 수 있다!   
 [http://isel.lifove.net/jchecker](http://isel.lifove.net/jchecker)
 
 <br>
