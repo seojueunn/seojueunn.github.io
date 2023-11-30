@@ -14,6 +14,7 @@ categories: research project
 > **English Title**: Automatic Evaluation System for Object-Oriented Programs   
 > **Author**: 서주은, Choi, Kim, Nam   
 > **Citation**: VOL 49 NO. 01 PP. 1755 ~ 1757 2022. 06   
+> 🏆 KCC2022 학부생/주니어논문경진대회 학부생부문 우수상   
 
 <br><br>
 
@@ -99,7 +100,7 @@ jChecker는 테스트 케이스 기반의 채점 방식과 함께 <span style='b
 <br>
 
 ### ✨ 논문을 직접 읽어보고 싶다면!
-본 연구는 **한국정보과학회 2022 한국컴퓨터종합학술대회**에 정식 게재되었다. 아래 링크를 통해 **_객체 지향 프로그램 자동 평가 시스템_** 논문을 다운로드 할 수 있다!   
+본 연구에 대한 논문은 **한국정보과학회 2022 한국컴퓨터종합학술대회**에 정식 게재되었다. 아래 링크를 통해 **_객체 지향 프로그램 자동 평가 시스템_** 논문을 다운로드 할 수 있다!   
 [>> 객체 지향 프로그램 자동 평가 시스템 (KCC 2022)](./KCC2022_Automatic_Evaluation_System_for_Object-Oriented_Programs.pdf)
 
 
