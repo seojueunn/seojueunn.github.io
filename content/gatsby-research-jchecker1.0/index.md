@@ -14,7 +14,7 @@ categories: research project
 > **English Title**: Automatic Evaluation System for Object-Oriented Programs   
 > **Author**: 서주은, Choi, Kim, Nam   
 > **Citation**: VOL 49 NO. 01 PP. 1755 ~ 1757 2022. 06   
-> 🏆 KCC2022 학부생/주니어논문경진대회 학부생부문 우수상   
+> 🏆 **KCC2022 학부생/주니어논문경진대회 학부생부문 우수상**   
 
 <br><br>
 
@@ -52,7 +52,7 @@ jChecker는 채점자가 <U>**테스트 케이스와 객체 지향 개념을 채
 
 #### 🌿 시스템 구조
 * <U>**백엔드**</U>는 API 서버이며, 프론트엔드와 데이터베이스의 중간 다리 역할로서 채점 요청이 오면 채점을 진행하여 데이터베이스에 결과를 저장
-* <U>**프론트엔드**</U>는 **<sup>1</sup>사용자가 서버의 리소스를 필요로 하는 경우**와 **<sup>2</sup>사용자가 프론트엔드에서 정보를 입력하여 저장하는 경우**에 대한 요청을 처리
+* <U>**프론트엔드**</U>는 **<sup>1.</sup>사용자가 서버의 리소스를 필요로 하는 경우**와 **<sup>2.</sup>사용자가 프론트엔드에서 정보를 입력하여 저장하는 경우**에 대한 요청을 처리
 * <U>**데이터베이스**</U>는 백엔드의 요청에 맞게 채점 관련 데이터를 저장 및 반환
 
 ![system-architecture.png](system-architecture.png)
