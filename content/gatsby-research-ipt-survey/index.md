@@ -70,9 +70,7 @@ IPT 기술에서 가장 많이 지원하는 피드백 형식을 쉽게 확인할
 <br>
 
 ### 🍁 논문 키워드 분석을 통한 IPT 연구 동향 파악
-IPT 분야의 연구 동향을 파악하기 위해 수집한 연구 논문들의 키워드를 전처리 후 분석하였다. 그 결과, **IPT 연구에 적용된 기술을 6개의 범주 <span style="color: #808080">(Program repair / AI / Visualization / Program synthesis / Program analysis / Fault localization)</span>로 분류**할 수 있었다. 연구 논문들을 연도별로 집계하여 추가적인 분석을 진행하였다. 2015년도에 활발히 연구되었던 Program repair 기술이 IPT에 적용되기 시작한 시점은 2017년임을 관찰하였다. 이를 통해 <span style='background-color: #fff5b1'>**기술의 발달 및 연구 시점과 해당 기술의 적용 시점에는 시간적 차이가 있다**</span>는 결론을 도출할 수 있었다.   
-
-![keywords-analysis.png](keywords-analysis.png)
+IPT 분야의 연구 동향을 파악하기 위해 수집한 연구 논문들의 키워드를 전처리 후 분석하였다. 그 결과, **IPT 연구에 적용된 기술을 6개의 범주 <span style="color: #808080">(Program repair / AI / Visualization / Program synthesis / Program analysis / Fault localization)</span>로 분류**할 수 있었다. 연구 논문들을 연도별로 집계하여 추가적인 분석을 진행하였다. 2015년도에 활발히 연구되었던 Program repair 기술이 IPT에 적용되기 시작한 시점은 2017년임을 관찰하였다. 이를 통해 <span style='background-color: #fff5b1'>**기술의 발달 및 연구 시점과 해당 기술의 적용 시점에는 시간적 차이가 있다**</span>는 결론을 도출할 수 있었다.
 
 <br><br>
 
