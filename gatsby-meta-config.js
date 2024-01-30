@@ -43,7 +43,11 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2023.09 ~ ing',
+        date: '2024.01 ~ ing',
+        activity: '📚 M.S. in Computer Science and Engineering, POSTECH',
+      },
+      {
+        date: '2023.09 ~ 2023.12',
         activity: '컴퓨터 구조 Teaching Assistant',
       },
       {
@@ -97,8 +101,8 @@ module.exports = {
         activity: 'Intelligent Software Engineering Lab 학부 연구생',
       },
       {
-        date: '2020.03 ~ ing',
-        activity: 'Artificial Intelligence・Computer Science and Engineering',
+        date: '2020.03 ~ 2024.02',
+        activity: '📚 B.S. in Artificial Intelligence・Computer Science and Engineering, HGU',
       },
     ],
 
