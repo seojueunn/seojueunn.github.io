@@ -26,8 +26,8 @@ module.exports = {
 
   // metadata for About Page
   about: {
-    timestamps: [
-      // =====       [Timestamp Sample and Structure]      =====
+    education: [
+      // =====       [Education Sample and Structure]      =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
       {
         date: '',
@@ -44,8 +44,30 @@ module.exports = {
       // ========================================================
       {
         date: '2024.01 ~ ing',
-        activity: '📚 M.S. in Computer Science and Engineering, POSTECH',
+        activity: 'M.S. in Computer Science and Engineering, POSTECH',
       },
+      {
+        date: '2020.03 ~ 2024.02',
+        activity: 'B.S. in Artificial Intelligence・Computer Science and Engineering, HGU',
+      },
+    ],
+
+    timestamps: [
+      // =====       [Timestamp Sample and Structure]      =====
+      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
+      {
+        date: '',
+        activity: '',
+        links: {
+          github: '',
+          post: '',
+          googlePlay: '',
+          appStore: '',
+          demo: '',
+        },
+      },
+      // ========================================================
+      // ========================================================
       {
         date: '2023.09 ~ 2023.12',
         activity: '컴퓨터 구조 Teaching Assistant',
@@ -99,10 +121,6 @@ module.exports = {
       {
         date: '2021.06 ~ 2023.06',
         activity: 'Intelligent Software Engineering Lab 학부 연구생',
-      },
-      {
-        date: '2020.03 ~ 2024.02',
-        activity: '📚 B.S. in Artificial Intelligence・Computer Science and Engineering, HGU',
       },
     ],
 
