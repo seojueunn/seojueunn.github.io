@@ -32,6 +32,13 @@ module.exports = {
       {
         date: '',
         activity: '',
+        links: {
+          github: '',
+          post: '',
+          googlePlay: '',
+          appStore: '',
+          demo: '',
+        },
       },
       // ========================================================
       // ========================================================
@@ -41,7 +48,7 @@ module.exports = {
       },
       {
         date: '2020.03 ~ 2024.02',
-        activity: '📚 B.S. in Artificial Intelligence・Computer Science and Engineering, HGU',
+        activity: 'B.S. in Artificial Intelligence・Computer Science and Engineering, HGU',
       },
     ],
 

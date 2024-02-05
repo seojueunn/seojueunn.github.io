@@ -3,11 +3,11 @@ import SectionHeader from '../section-header';
 import IconButtonBar from '../icon-button-bar';
 import './style.scss';
 
-function TimeStampSection({ title, timestamps }) {
+function TimeStampSection({ timestamps }) {
   if (!timestamps || timestamps.length < 2) return null;
   return (
     <div className="timestamp-section">
-      <SectionHeader title={title} />
+      <SectionHeader title="Timestamps" />
       <div className="body">
         {timestamps.map((timestamp, index) =>
           index === 0 ? null : (

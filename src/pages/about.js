@@ -48,6 +48,13 @@ export const pageQuery = graphql`
           education {
             date
             activity
+            links {
+              post
+              github
+              demo
+              googlePlay
+              appStore
+            }
           }
           
           timestamps {
