@@ -26,6 +26,25 @@ module.exports = {
 
   // metadata for About Page
   about: {
+    education: [
+      // =====       [Education Sample and Structure]      =====
+      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
+      {
+        date: '',
+        activity: '',
+      },
+      // ========================================================
+      // ========================================================
+      {
+        date: '2024.01 ~ ing',
+        activity: 'M.S. in Computer Science and Engineering, POSTECH',
+      },
+      {
+        date: '2020.03 ~ 2024.02',
+        activity: '📚 B.S. in Artificial Intelligence・Computer Science and Engineering, HGU',
+      },
+    ],
+
     timestamps: [
       // =====       [Timestamp Sample and Structure]      =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
