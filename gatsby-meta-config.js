@@ -70,7 +70,7 @@ module.exports = {
       // ========================================================
       {
         date: '2024.01 ~ ing',
-        activity: '👩🏻‍🎓Algorithms Lab, POSTECH',
+        activity: '👩🏻‍🎓 Algorithms Lab, POSTECH',
       },
       {
         date: '2023.09 ~ 2023.12',
@@ -124,7 +124,7 @@ module.exports = {
       },
       {
         date: '2021.06 ~ 2023.06',
-        activity: '👩🏻‍🔬Intelligent Software Engineering Lab 학부 연구생, HGU',
+        activity: '👩🏻‍🔬 Intelligent Software Engineering Lab 학부 연구생, HGU',
       },
     ],
 
