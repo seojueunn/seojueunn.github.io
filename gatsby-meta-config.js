@@ -70,7 +70,7 @@ module.exports = {
       // ========================================================
       {
         date: '2024.01 ~ ing',
-        activity: '📚 M.S. in Computer Science and Engineering, POSTECH',
+        activity: 'Algorithms Lab 석사생, POSTECH',
       },
       {
         date: '2023.09 ~ 2023.12',
@@ -82,7 +82,7 @@ module.exports = {
       },
       {
         date: '2023.02',
-        activity: '프로그래밍 교육을 위한 지능형 튜터링 시스템 문헌 조사, in Proceedings of Korea Conference on Software Engineering (KCSE2023) ',
+        activity: '프로그래밍 교육을 위한 지능형 튜터링 시스템 문헌 조사, in Proceedings of KCSE2023',
         links: {
           post: 'http://sigsoft.or.kr/kcse2023/',
         },
@@ -101,7 +101,7 @@ module.exports = {
       },
       {
         date: '2022.07',
-        activity: '객체 지향 프로그램 자동 평가 시스템, in Proceedings of Korea Computer Congress (KCC2022) & 🏆 학부생 부문 수상',
+        activity: '객체 지향 프로그램 자동 평가 시스템, in Proceedings of KCC2022 & 🏆 학부생 부문 수상',
         links: {
           post: 'https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&gu=INME000G4&cmd=qryview&SnxIndxNum=245374&q1_yy=2022&q1_mm=06&rownum=2&totalCnt=4&q1_t=SmFlY2hhbmcgTmFt&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT1KYWVjaGFuZyUyME5hbSZtb3JlPVkmZjE9TU4mcmVzZWFyY2g9WQ==&f1=MN&q1=Jaechang%20Nam',
         },
@@ -124,11 +124,7 @@ module.exports = {
       },
       {
         date: '2021.06 ~ 2023.06',
-        activity: 'Intelligent Software Engineering Lab 학부 연구생',
-      },
-      {
-        date: '2020.03 ~ 2024.02',
-        activity: '📚 B.S. in Artificial Intelligence・Computer Science and Engineering, HGU',
+        activity: 'Intelligent Software Engineering Lab 학부 연구생, HGU',
       },
     ],
 
